@@ -1,0 +1,274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jagg",
+				"jaggedRow4"
+			],
+			[
+				"j",
+				"jaggedRow3"
+			],
+			[
+				"jagged",
+				"jaggedRow2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 66.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vinif/Downloads/FinalExam/Finalp2b.c",
+		"/C/Users/vinif/Downloads/FinalExam/Finalp2.c",
+		"/C/Users/vinif/Downloads/FinalExam/Finalp1.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/indenter.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/indenter.h",
+		"/C/Users/vinif/OneDrive/Desktop/ExtensionSample/LC3Extension.h",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab8p2.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab7.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab7p2.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/LAB9FINAL.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/strcpyTest.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/HW6.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab10.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab11.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/broken.h",
+		"/C/Users/vinif/Downloads/CIS_190_HW/HW4p2.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/HW4p1b.c",
+		"/C/Users/vinif/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/1113/Attachments/brokenLab10[1247].c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab10broken.h",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab10base.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab10broken.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Nghtmare.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab9v2.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab9p1.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab9.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/HW5PART1.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/HW5PART2.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/printArray.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/pissfart.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/cumshot.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/assfuck.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/prolapsed_pp_hole.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/structTest.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab11Notes.c",
+		"/C/Users/vinif/Downloads/Lab9 (3).c",
+		"/C/Users/vinif/Downloads/Lab9 (2).c",
+		"/C/Users/vinif/Downloads/Notes.c",
+		"/C/Users/vinif/OneDrive/Desktop/HW4p1.c",
+		"/C/Users/vinif/OneDrive/Desktop/HW4_p1b.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/cum.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/HW4_p1b.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/HW4p1.c",
+		"/C/Users/vinif/Downloads/CIS_190_HW/piss.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/Lab8.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/memNotesLab9.c",
+		"/C/Users/vinif/Downloads/CIS_190_Lab/lab8",
+		"/C/Users/vinif/Downloads/CIS 190 Hw/Problem2.c",
+		"/C/Users/vinif/Downloads/CIS 190 Hw/Problem1.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/memNotesLab9.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/Lab8.c",
+		"/C/Users/vinif/Downloads/Compile/Lab3p1.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/Lab8p2.c",
+		"/C/Users/vinif/Downloads/Compile/Lab2p1.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/Lab7.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/Lab5b.c",
+		"/C/Users/vinif/Downloads/CIS 190 Hw/HW3p2.c",
+		"/C/Users/vinif/Downloads/CIS 190 Hw/HW3p1.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/Lab7p2.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/indenter.h",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/source1.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/source3.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/source2.cpp",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/source1_indented.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/source3_indented.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/piss.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/indenter.c",
+		"/C/Users/vinif/Downloads/CIS 190 Hw/HW2p3Final.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/Lab5v2.c",
+		"/C/Users/vinif/Downloads/CIS 190 Hw/HW2p2Final.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/myhead.h",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/headerTest.c",
+		"/C/Users/vinif/AppData/Local/Temp/Temp1_HW2_Coelho_Vini.zip/HW2p1.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/HW2p2Final.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/HW2p1.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/HW2p3.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/HW2p3Final.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/HW2p2.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/loopTest.c",
+		"/C/Users/vinif/AppData/Local/Temp/Temp1_Lab2.zip/Lab2p2.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/Lab3/Lab3p1New.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/Lab4/Lab4.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/Lab5.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/HW1p3.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/HW1.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/HW1p2.c",
+		"/C/Users/vinif/Downloads/Compile/Lab3p2.c",
+		"/C/Users/vinif/Downloads/CIS 190 Lab/Lab2.zip",
+		"/C/Users/vinif/Downloads/Compile/Lab3/Lab3p1New.c",
+		"/C/Users/vinif/Downloads/Compile/Lab2.zip",
+		"/C/Users/vinif/Downloads/Compile/Lab2p2.c",
+		"/C/Users/vinif/Downloads/Compile/Lab2p3.c",
+		"/C/Users/vinif/Downloads/Compile/Lab2.c",
+		"/C/Users/vinif/Downloads/Compile/L2p1.c",
+		"/C/Users/vinif/Downloads/Compile/HelloWorld.c",
+		"/C/Users/vinif/Downloads/Compile/Loop.c",
+		"/C/Users/vinif/OneDrive/Desktop/helloWorld2.c",
+		"/C/cygwin64/Cygwin.bat",
+		"/C/cygwin64/Cygwin.ico"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TextGame.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
